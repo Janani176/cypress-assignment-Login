@@ -20,7 +20,7 @@ Ensure you have the following installed on your machine:
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Janani176/cypress-assignment-Login.git
    cd cypress assginment
 
 2. Install dependencies:
